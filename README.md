@@ -1,1 +1,1 @@
-# trial
+# Manning LiveProjects
